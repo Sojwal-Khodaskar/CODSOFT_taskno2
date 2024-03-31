@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{background-image: url("1.jpg");
+    background-color: rgba(231, 248, 253, 0.86);
+}
+option{
+ background-color: aliceblue;
+}

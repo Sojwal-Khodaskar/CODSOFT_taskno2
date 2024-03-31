@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url("1.jpg");
+    width: auto;
+}
+
+#header{
+    background-color: 	#c2c2f854;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+#Home{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#bookticket{
+    background-color: rgba(0, 208, 255, 0.133);
+}
+#bookticket:hover{
+    background-color: yellow;
+}
+img{margin-left:25px;
+    margin-top: 10px;
+    height: 140px;
+    width: 300px;
+}
